@@ -17,9 +17,26 @@ Tenho perfil analítico, curiosidade técnica e aprendizado contínuo como prior
 
 ## 🧠 Tecnologias & Ferramentas
 
-| Front-end | Ferramentas de Desenvolvimento | Cloud & Deploy | AI & Automação |
-|-----------|--------------------------------|---------------|----------------|
-| <div align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,scss,vue,react,vite" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vercel,aws" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=openai" /></div> |
+<table>
+  <tr>
+    <th>Front-end</th>
+    <th>Ferramentas de Desenvolvimento</th>
+    <th>Cloud & Deploy</th>
+    <th>AI & Automação</th>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><div align="center"><img src="https://skillicons.dev/icons?i=html,css,scss,vue,react,vite" /></div></td>
+    <td align="center" width="33%"><div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode" /></div></td>
+    <td align="center" width="34%"><div align="center"><img src="https://skillicons.dev/icons?i=vercel,aws" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3"></td>
+    <td align="center">
+      ![OpenAI](https://img.shields.io/badge/OpenAI-API-000000?style=flat-square)<br>
+      ![Google Gemini](https://img.shields.io/badge/Google-Gemini-0000FF?style=flat-square)
+    </td>
+  </tr>
+</table>
 
 ---
 
