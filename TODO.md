@@ -1,0 +1,1 @@
+- [x] Update README.md with professional and creative content in Portuguese, including a personal bio and skills section with icons from skillicons.dev
