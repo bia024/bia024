@@ -1,4 +1,4 @@
-# Olá, mundo! 👋
+# Olá! 👋
 
 Sou **Bianca Caetano**, desenvolvedora em formação com foco em **Front-end**, interessada em construir aplicações web modernas, bem estruturadas e orientadas a boas práticas de engenharia.
 
@@ -17,31 +17,9 @@ Tenho perfil analítico, curiosidade técnica e aprendizado contínuo como prior
 
 ## 🧠 Tecnologias & Ferramentas
 
-### 🎨 Front-end
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,scss,vue,react,vite" />
-</div>
-
----
-
-### 🛠️ Ferramentas de Desenvolvimento
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</div>
-
----
-
-### ☁️ Cloud & Deploy
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,aws" />
-</div>
-
----
-
-### 🤖 AI & Automação
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=openai" />
-</div>
+| Front-end | Ferramentas de Desenvolvimento | Cloud & Deploy | AI & Automação |
+|-----------|--------------------------------|---------------|----------------|
+| <div align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,scss,vue,react,vite" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vercel,aws" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=openai" /></div> |
 
 ---
 
