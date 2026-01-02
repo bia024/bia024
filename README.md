@@ -1,6 +1,6 @@
 # Bianca Caetano
 
-**Front-end Developer em formação**
+**Front-end Developer**
 
 Desenvolvedora front-end em formação, com interesse em criar aplicações web modernas, bem estruturadas e alinhadas a boas práticas de engenharia de software.
 
