@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Equipe-HackaDevs">
-    <img src="https://github.com/bia024/bia024/raw/main/equipe-hackadevs.png" width="100%" height="150" style="object-fit: cover;" alt="Equipe HackaDevs Banner">
+    <img src="https://github.com/bia024/bia024/raw/main/equipe-hackadevs.png" width="100%" height="190" style="object-fit: cover;" alt="Equipe HackaDevs Banner">
   </a>
 </p>
 
@@ -12,7 +12,7 @@ Desenvolvedora Frontend com sólida experiência na criação de interfaces esca
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 <table align="center" border="0">
   <tr>
@@ -49,7 +49,7 @@ Desenvolvedora Frontend com sólida experiência na criação de interfaces esca
 
 ---
 
-### 🚀 Atuação Atual & Projetos
+### Atuação Atual & Projetos
 
 - **Tech Lead na Equipe HackaDevs:** Gestão de repositórios organizacionais e mentoria técnica para desenvolvedores Fullstack.
 - **Vision Board:** Desenvolvimento de uma plataforma de produtividade focada em UX/UI minimalista e integração contínua.
