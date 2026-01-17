@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bia024/bia024/raw/main/equipe-hackadevs.png" width="150">
+  <img src="https://github.com/bia024/bia024/raw/main/equipe-hackadevs.png" width="100%">
 </p>
 
 <h1 align="center">Bianca Caetano</h1>
@@ -25,8 +25,16 @@ Desenvolvedora Frontend com sólida experiência na criação de interfaces esca
 * **Mentoria:** Apoio a desenvolvedores iniciantes na transição para o mercado profissional através de projetos open-source.
 
 ---
+<h3>📫 Let's Connect</h3>
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bia-caetano)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=ko-fi&logoColor=white)](https://github.com/bia024)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:beahreis4@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/bia-caetano">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/bia024">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=ko-fi&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:beahreis4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
