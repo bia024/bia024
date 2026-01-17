@@ -25,14 +25,6 @@ Desenvolvedora Frontend com sólida experiência na criação de interfaces esca
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bia024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Bia Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bia024&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bia-caetano)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=ko-fi&logoColor=white)](https://github.com/bia024)
