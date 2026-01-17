@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Equipe-HackaDevs">
-    <img src="https://github.com/bia024/bia024/raw/main/equipe-hackadevs.png" width="100%" alt="Equipe HackaDevs Banner">
+    <img src="https://github.com/bia024/bia024/raw/main/equipe-hackadevs.png" width="100%" height="150" alt="Equipe HackaDevs Banner">
   </a>
 </p>
 
