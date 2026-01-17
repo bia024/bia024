@@ -22,26 +22,26 @@ Desenvolvedora Frontend com sólida experiência na criação de interfaces esca
     <td align="center"><b>Integrações & API</b></td>
   </tr>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-JS/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/-JS/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" /> -->
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" /> -->
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=json&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br>
